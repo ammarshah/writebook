@@ -156,7 +156,7 @@
 
 .book__nav {
   font-size: var(--font-medium-responsive);
-  margin: var(--block-space-double) auto var(--block-space);
+  margin: var(--block-space-double) auto;
 
   .btn {
     max-inline-size: 50ch;
@@ -193,7 +193,7 @@
 
 .book__toolbar {
   inset-block-start: 0;
-  z-index: 1;
+  z-index: 2;
 }
 
 /* Bookmarks */
